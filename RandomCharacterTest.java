@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
 
-public class RandomCharacter {
+public class RandomCharacterTest {
     RandomCharacterTest test ;                        //Declaring ran
 
     @Before/* run before @test */
