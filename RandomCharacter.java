@@ -3,7 +3,7 @@ package com.Munigal.lab9;
 import java.util.Random;
 
 
-public class RandomCharacterTestt {
+public class RandomCharacter {
     public static final String ALPHANUMERIC_CHARACTERS = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXY";
     Random ran = new Random();
 
